@@ -1,0 +1,10 @@
+.fargval{
+    margin-top: 20px;
+    font-size: 50px;
+    color: green;
+}
+
+.fargval a {
+    margin: 0 10px; /* Add margin between the links */
+    text-decoration: none; /* Remove underline */
+    color: #333; /* Set link color */}
